@@ -1,0 +1,49 @@
+rem    *** generate ***
+del generate\01
+del generate\01.a
+del generate\02
+del generate\02.a
+del generate\03
+del generate\03.a
+del generate\04
+del generate\04.a
+del generate\05
+del generate\05.a
+del generate\06
+del generate\06.a
+del generate\07
+del generate\07.a
+del generate\08
+del generate\08.a
+del generate\09
+del generate\09.a
+del generate\10
+del generate\10.a
+del generate\11
+del generate\11.a
+del generate\12
+del generate\12.a
+del generate\13
+del generate\13.a
+del generate\14
+del generate\14.a
+del generate\15
+del generate\15.a
+del generate\16
+del generate\16.a
+del generate\17
+del generate\17.a
+del generate\18
+del generate\18.a
+del generate\19
+del generate\19.a
+del generate\20
+del generate\20.a
+
+rem    *** tests ***
+del tests\01.a
+del tests\02.a
+del tests\03.a
+del tests\04.a
+del tests\05.a
+
